@@ -1,4 +1,4 @@
-# ☀️ PLTS Pro Calculator
+# ☀️ PLTS Calculator
 
 Sebuah aplikasi kalkulator berbasis command-line yang dirancang secara modular untuk membantu memperkirakan kebutuhan komponen utama dalam sistem Pembangkit Listrik Tenaga Surya (PLTS) tipe *off-grid*.
 
