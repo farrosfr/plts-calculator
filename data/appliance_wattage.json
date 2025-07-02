@@ -1,0 +1,12 @@
+[
+  { "nama": "Lampu LED", "watt": 10 },
+  { "nama": "TV LED 32 inch", "watt": 50 },
+  { "nama": "Kulkas Inverter", "watt": 70 },
+  { "nama": "Laptop (saat charge)", "watt": 65 },
+  { "nama": "Kipas Angin", "watt": 50 },
+  { "nama": "Router Wi-Fi", "watt": 15 },
+  { "nama": "Pompa Air (start)", "watt": 350 },
+  { "nama": "Rice Cooker (memasak)", "watt": 300 },
+  { "nama": "Setrika Listrik", "watt": 350 },
+  { "nama": "Charger HP", "watt": 18 }
+]
